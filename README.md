@@ -56,7 +56,7 @@ Step2. Build Project.
 2-3. Execute. (Finish, Cmd+Q)
 
 2-4. 'Main' Scene, Show 'icecream@3x' Sprite Succesed.
-(in editor, Sprite is Orange Quad...)
+(in editor, "ProjectSettings > Editor > SpritePackerMode > SpriteAtlas V1 - Enable For Build"  Sprite is Orange Quad...)
 
 # Reference
 

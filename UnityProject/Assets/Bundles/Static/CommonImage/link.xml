@@ -15,6 +15,9 @@
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
   </assembly>
+  <assembly fullname="Unity.Locus.BundleSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BundleSystem.AssetbundleBuildSettings" preserve="all" />
+  </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.AudioListener" preserve="all" />
   </assembly>

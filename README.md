@@ -15,7 +15,7 @@ evericons
 http://www.evericons.com/
 
 ****************************
-L I C E N S E
+evericons L I C E N S E
 
 Evericons is licensed under the CC0 1.0 Universal (CC0 1.0).
 That's mean you could use this pack like you want and no copyright needed.

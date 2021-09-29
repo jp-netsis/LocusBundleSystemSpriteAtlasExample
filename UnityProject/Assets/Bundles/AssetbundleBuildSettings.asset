@@ -13,6 +13,12 @@ MonoBehaviour:
   m_Name: AssetbundleBuildSettings
   m_EditorClassIdentifier: 
   BundleSettings:
+  - BundleName: StaticScene
+    IncludedInPlayer: 1
+    Folder:
+      guid: 31fc4302672093d49a029f42200899a0
+    IncludeSubfolder: 1
+    CompressBundle: 0
   - BundleName: CommonAtlas
     IncludedInPlayer: 1
     Folder:

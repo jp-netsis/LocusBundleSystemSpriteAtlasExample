@@ -2,10 +2,10 @@
 LocusBundleSystem SpriteAtlas Example
 
 # Unity Project
-Unity 2020.3.17f1
+Unity 2020.3.19f1
 
 # Use Bundle System
-Locus Bundle System
+Locus Bundle System 1.1.9
 
 https://github.com/locus84/Locus-Bundle-System
 

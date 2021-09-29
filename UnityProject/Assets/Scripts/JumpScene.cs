@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class JumpScene : MonoBehaviour
 {
-    public void Jump(string sceneName)
+    public void Jump(string bundleName, string sceneName)
     {
-        SceneManager.LoadScene(sceneName);
+        BundleSystem.BundleManager.LoadScene(bundleName, sceneName, LoadSceneMode.Single);
     }
 }

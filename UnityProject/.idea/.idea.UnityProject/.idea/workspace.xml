@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f0f4729-e1bc-4547-96a8-6d48cee4c5fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bundles/AssetbundleBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bundles/AssetbundleBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/InitScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/InitScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AssetBundleConst.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AssetBundleConst.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AtlasHook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AtlasHook.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BundleTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BundleTest.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632856130310</updated>
       <workItem from="1632856142157" duration="641000" />
+      <workItem from="1632881525780" duration="91000" />
     </task>
     <servers />
   </component>

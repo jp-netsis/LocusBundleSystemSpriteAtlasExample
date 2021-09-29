@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class BundleTest : MonoBehaviour
 {
     // Start is called before the first frame update
-    IEnumerator Start()
+    IEnumerator LoadAsync()
     {
         if (!BundleManager.Initialized)
         {
@@ -52,6 +52,12 @@ public class BundleTest : MonoBehaviour
 
     public void OnClick()
     {
+        StartCoroutine(CoOnClick());
+    }
+
+    IEnumerator CoOnClick()
+    {
+        yield return LoadAsync();
         BundleManager.LoadScene(
             AssetBundleConst.ABConst_RemoteMain.ASSETBUNDLE_NAME,
             AssetBundleConst.ABConst_RemoteMain.MAIN,

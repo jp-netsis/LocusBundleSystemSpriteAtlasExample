@@ -37,7 +37,7 @@ MonoBehaviour:
   RemoteURL: http://127.0.0.1:8887
   EmulateInEditor: 1
   EmulateWithoutRemoteURL: 1
-  CleanCacheInEditor: 0
+  CleanCacheInEditor: 1
   ForceRebuild: 0
   UseCacheServer: 0
   CacheServerHost: 

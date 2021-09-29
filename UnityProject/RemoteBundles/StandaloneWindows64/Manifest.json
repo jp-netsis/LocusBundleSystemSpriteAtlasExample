@@ -1,0 +1,29 @@
+{
+    "BundleInfos": [
+        {
+            "BundleName": "RemoteMain",
+            "m_HashString": "5bbf0407866f609fd6f0704b8e9e5571",
+            "Dependencies": [
+                "CommonAtlas",
+                "CommonImage"
+            ],
+            "Size": 112115
+        },
+        {
+            "BundleName": "CommonAtlas",
+            "m_HashString": "316530db739cc7a2f7885156549327bf",
+            "Dependencies": [],
+            "Size": 9380
+        },
+        {
+            "BundleName": "CommonImage",
+            "m_HashString": "63c8e6f62ffa85670cf7cd7d64040248",
+            "Dependencies": [],
+            "Size": 5309
+        }
+    ],
+    "BuildTarget": "StandaloneWindows64",
+    "BuildTime": 637684892558106206,
+    "RemoteURL": "http://127.0.0.1:8887",
+    "m_GlobalHash": "bcb7816c0cd71f3466f0a7db70592b16"
+}

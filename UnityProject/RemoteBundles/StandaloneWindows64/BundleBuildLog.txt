@@ -1,0 +1,11 @@
+Build Time : 2021-09-29 14:14:15
+
+----File Path : D:/Workspace/Unity/LocusBundleSystemSpriteAtlasExample/UnityProject/RemoteBundles/StandaloneWindows64/CommonAtlas----
+   0.00127 mb - Assets/Bundles/Static/CommonAtlas/egg@3x.png
+
+----File Path : D:/Workspace/Unity/LocusBundleSystemSpriteAtlasExample/UnityProject/RemoteBundles/StandaloneWindows64/CommonImage----
+   0.00020 mb - Assets/Bundles/Static/CommonImage/bread@3x.png
+
+----File Path : D:/Workspace/Unity/LocusBundleSystemSpriteAtlasExample/UnityProject/RemoteBundles/StandaloneWindows64/RemoteMain----
+   0.00010 mb - Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+

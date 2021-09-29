@@ -1,0 +1,8 @@
+Build Time : 2021-09-29 14:14:09
+
+----File Path : D:/Workspace/Unity/LocusBundleSystemSpriteAtlasExample/UnityProject/LocalBundles/StandaloneWindows64/CommonAtlas----
+   0.00127 mb - Assets/Bundles/Static/CommonAtlas/egg@3x.png
+
+----File Path : D:/Workspace/Unity/LocusBundleSystemSpriteAtlasExample/UnityProject/LocalBundles/StandaloneWindows64/CommonImage----
+   0.00020 mb - Assets/Bundles/Static/CommonImage/bread@3x.png
+

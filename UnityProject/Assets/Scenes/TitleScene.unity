@@ -310,7 +310,7 @@ GameObject:
   - component: {fileID: 368689212}
   - component: {fileID: 368689211}
   m_Layer: 0
-  m_Name: AtlasHook
+  m_Name: AtlasLoader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -331,9 +331,6 @@ MonoBehaviour:
   _bundledAssetPath:
     BundleName: CommonAtlas
     AssetName: _CommonAtlas
-  _completeInitialize:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!4 &368689212
 Transform:
   m_ObjectHideFlags: 0
